@@ -1,0 +1,6 @@
+.templateText {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25px;
+  font-family: 'Consolas';
+}
